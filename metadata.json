@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack Sheet Sync",
+  "description": "A comprehensive student management dashboard with Google Sheet-like data organization, marks entry, and AI-powered performance analysis.",
+  "requestFramePermissions": []
+}
